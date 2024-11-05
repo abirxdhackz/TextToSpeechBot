@@ -19,7 +19,7 @@ This bot allows users to convert text into speech! Just send a text message, and
 ### Steps
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/yourusername/text-to-speech-bot.git
+   git clone https://github.com/abirxdhackz/text-to-speech-bot.git
    cd text-to-speech-bot
    ```
 
